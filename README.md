@@ -1,4 +1,4 @@
-# Abdullah James - Portfolio Website
+# Sri Harsha - Portfolio Website
 
 A modern, responsive portfolio website showcasing my skills, projects, and experience as a developer. Built with React, TypeScript, and modern web technologies for optimal performance and user experience.
 
@@ -56,4 +56,4 @@ Feel free to reach out if you'd like to collaborate or have any questions about 
 
 ---
 
-© 2025 Abdullah James. All rights reserved.
+© 2025 Sri Harsha. All rights reserved.
